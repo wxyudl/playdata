@@ -20,4 +20,4 @@ developer    - 开发商
 index_date   - 抓取时间（Ymd 格式）
 ```
 
-最新数据在 `data` 分支：https://github.com/wxyudl/playdata/tree/data/Fang/data
+最新数据在 `data` 分支：https://github.com/wxyudl/playdata/tree/data/Fang/data （每天 6 点更新）
